@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.687380f1.css",
+    "main.js": "/static/js/main.69db6325.js",
+    "static/media/logo.png": "/static/media/logo.a007617b31c1420c3a14.png",
+    "static/media/shopping_yellow.svg": "/static/media/shopping_yellow.94d57438680b7884db2d959f6796486e.svg",
+    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/personalgoals.svg": "/static/media/personalgoals.6b52b0e79d6db78072e1c141ea5f4754.svg",
+    "index.html": "/index.html",
+    "main.687380f1.css.map": "/static/css/main.687380f1.css.map",
+    "main.69db6325.js.map": "/static/js/main.69db6325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.687380f1.css",
+    "static/js/main.69db6325.js"
+  ]
+}

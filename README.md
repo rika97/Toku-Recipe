@@ -30,7 +30,9 @@ Oh and it's mobile responsive too!
      - Express.js (Backend)
      - React (Frontend)
      - Node.js (Server)
-
+ - UI Frameworks:
+     - Figma
+     - Material UI (MUI)
 ## **🚘 Roadmap**
 Currently, this app is still in development phase. The ultimate goal of this app is to fully automate the process of users' cooking chores.
 Users can post recipes and create stock/shopping lists, but here are some tasks for future steps:

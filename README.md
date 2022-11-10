@@ -31,7 +31,7 @@ Oh and it's mobile responsive too!
      - React (Frontend)
      - Node.js (Server)
 
-## **Roadmap 🚘**
+## **🚘 Roadmap**
 Currently, this app is still in development phase. The ultimate goal of this app is to fully automate the process of users' cooking chores.
 Users can post recipes and create stock/shopping lists, but here are some tasks for future steps:
 1. Calculate nutritional information automatically for each of the recipes from its ingredients.

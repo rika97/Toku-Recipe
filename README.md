@@ -24,6 +24,14 @@ Oh and it's mobile responsive too!
 <img width="697" alt="Screen Shot 2022-08-04 at 11 03 12 PM" src="https://user-images.githubusercontent.com/27670355/182984524-4e409a55-dc61-4fa4-82e5-374f65560b2c.png">
 <img width="696" alt="Screen Shot 2022-08-04 at 11 04 00 PM" src="https://user-images.githubusercontent.com/27670355/182984526-a8fea7ad-0474-465d-9dca-7fb6e01b2d87.png">
 
+## **👩‍🍳 Built with**
+ - MERN stack
+     - MongoDB (Database)
+     - Express.js (Backend)
+     - React (Frontend)
+     - Node.js (Server)
+
+## **Roadmap 🚘**
 Currently, this app is still in development phase. The ultimate goal of this app is to fully automate the process of users' cooking chores.
 Users can post recipes and create stock/shopping lists, but here are some tasks for future steps:
 1. Calculate nutritional information automatically for each of the recipes from its ingredients.
